@@ -10,7 +10,7 @@
             agent none
 
             stages {
-                stage('Build') {
+                stage('Hello') {
                     steps {
                         echo 'Building..'
                     }
